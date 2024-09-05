@@ -1,0 +1,3 @@
+/home/nicarp/coding/Metode-si-tehnici-pentru-programare/I.Recursivitate/1.2/out/build/idk/CMakeFiles/ex1.dir
+/home/nicarp/coding/Metode-si-tehnici-pentru-programare/I.Recursivitate/1.2/out/build/idk/CMakeFiles/edit_cache.dir
+/home/nicarp/coding/Metode-si-tehnici-pentru-programare/I.Recursivitate/1.2/out/build/idk/CMakeFiles/rebuild_cache.dir
